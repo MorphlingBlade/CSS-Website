@@ -1,0 +1,85 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bottomCloud {
+    position: absolute;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+.bottom-container {
+    background-color : burlywood;
+    padding-bottom: 10px;
+}
+
+.contact{
+    border:0;
+    border-top: 1px;
+}
+
+.contact-me {
+    padding-top: 5px;
+    background-color: burlywood;
+}
+
+.fishing {
+    height: 300px;
+    width: 300px;
+}
+
+h1{
+    font-size: 4.625em;
+    font-family: 'Proza Libre', sans-serif;
+    margin-top: 0;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+hr {
+    border: 0;
+}
+
+.me {
+    width: 200px;
+    height: 200px;
+}
+
+.middleContainer{
+    background-color : lightgoldenrodyellow;
+ 
+}
+
+.skills {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.topCloud {
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+.topDiv {
+    background-color: #cae4db;
+    position: relative;
+    padding-top: 100px;
+}
+
+.webDev {
+    height: 300px;
+    width: 300px;
+}
+
